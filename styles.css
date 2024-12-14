@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.horchata {
+    color: #bbbbbb;
+}
+
+.pineapple {
+    color:khaki ;
+}
+
+.main-image {
+    width: 300px;
+    height: auto;
+}
+
+/* body {
+    background-color: lightsteelblue;
+} */
